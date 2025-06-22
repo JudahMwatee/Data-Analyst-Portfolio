@@ -1,4 +1,5 @@
 INTRODUCTION
+
 Hi, I'm Judah an IT professional with strong background in troubleshooting, Training and Setup of both Hardware and Software. I am passionate about leveraging technology to solve complex business challenges and drive innovation. With a strong foundation in systems administration, network infrastructure, cybersecurity and Data Analysis. I possess a robust technical skill set complemented by a problem-solving mindset and a commitment to continuous learning.
 
 Throughout my career, I have demonstrated the ability to analyze, design, and implement effective IT solutions that enhance operational efficiency and support organizational growth. I am adept at managing and maintaining IT infrastructures, troubleshooting issues under pressure, and collaborating with cross-functional teams to meet both technical and business objectives. My expertise in Cybersecurity, data management, and emerging technologies like artificial intelligence enables me to stay ahead of industry trends and proactively address the evolving needs of today’s digital landscape.
@@ -11,6 +12,16 @@ I am committed to fostering a secure, efficient, and innovative IT environment t
 
 The objective of repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
+PYTHON WEBSCAPING
+
+Objective:
+Get CSV file of all the books titles, price and star rating in a website.
+
+Description:
+In this project i demonstrate how to scrape multiple web pages using BeautifulSoup and export the results to a CSV files using Pandas Library. 
+i used books.toscrape.com as the web scraping playground.(
+
+[Web Scrapping](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/Web_Scraping_to_CSV.ipynb)
 
 
 
