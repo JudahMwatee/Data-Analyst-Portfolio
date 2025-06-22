@@ -5,3 +5,5 @@ Throughout my career, I have demonstrated the ability to analyze, design, and im
 I Just completed IBM Data Analyst Professional Certificate. I have developed a strong understanding of core principles of data analysis and worked hands-on with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Relational Databases, Python, Jupyter Notebooks/Google Colab, and Cognos Analytics/Locker Studio, gaining practical experience with data manipulation, data analysis, and data visualization. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
 I am committed to fostering a secure, efficient, and innovative IT environment that not only meets the current needs of the organization but is also scalable to adapt to future demands. My approach to IT is deeply rooted in a dedication to quality, honesty, integrity, and excellence. I am always eager to bring this ethos to new challenges and opportunities.
+
+My CV https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/CV.pdf
