@@ -6,6 +6,6 @@ I Just completed IBM Data Analyst Professional Certificate. I have developed a s
 
 I am committed to fostering a secure, efficient, and innovative IT environment that not only meets the current needs of the organization but is also scalable to adapt to future demands. My approach to IT is deeply rooted in a dedication to quality, honesty, integrity, and excellence. I am always eager to bring this ethos to new challenges and opportunities.
 
-My CV] (https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/CV.pdf)
+[My_CV](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/CV.pdf)
 
 
