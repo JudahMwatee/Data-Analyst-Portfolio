@@ -23,7 +23,22 @@ i used books.toscrape.com as the web scraping playground.
 
 [Web Scraping code](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/Web_Scraping_to_CSV.ipynb)
 
+In this project i have taken data from the first 5 pages of the website.
+
 [Resulting Csv file](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/books.csv)
+
+CREATING A DATABASE WITH PYTHON
+
+In this project i created a database using sqlite3 library.(INSTRUCTOR.DB)
+Created a table INSTRUCTOR with colunms: ID, First Name, Last Name, City and Country Code with ID as the Primary Key
+added 4 rows of Data
+Displayed all the rows and part of rows then edited the data in the first row
+Lastly displayed the Table as a dataframe using pandas Library
+
+[Python Database Creation](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/creating_DB_in_Python.ipynb)
+
+
+
 
 
 
