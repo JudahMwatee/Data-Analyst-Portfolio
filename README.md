@@ -19,9 +19,11 @@ Get CSV file of all the books titles, price and star rating in a website.
 
 Description:
 In this project i demonstrate how to scrape multiple web pages using BeautifulSoup and export the results to a CSV files using Pandas Library. 
-i used books.toscrape.com as the web scraping playground.(
+i used books.toscrape.com as the web scraping playground.
 
-[Web Scrapping](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/Web_Scraping_to_CSV.ipynb)
+[Web Scraping code](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/Web_Scraping_to_CSV.ipynb)
+
+[Resulting Csv file]
 
 
 
