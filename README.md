@@ -64,6 +64,8 @@ Created a presentation based on the analysis of the Stack Overflow survey data. 
 # CERTIFICATIONS:
 
 ## [IBM Data Analyst](https://www.coursera.org/account/accomplishments/specialization/95K05UBAHFIV)
+## [COMPTIA CYBERSECURITY PLUS](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
+## [Google CyberSecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/1DKN0RCQ2FS8)
 
 
 
