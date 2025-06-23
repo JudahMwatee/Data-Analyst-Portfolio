@@ -23,7 +23,7 @@ i used books.toscrape.com as the web scraping playground.
 
 [Web Scraping code](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/Web_Scraping_to_CSV.ipynb)
 
-[Resulting Csv file]
+[Resulting Csv file](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/books.csv)
 
 
 
