@@ -37,6 +37,37 @@ Lastly displayed the Table as a dataframe using pandas Library
 
 [Python Database Creation](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/creating_DB_in_Python.ipynb)
 
+DATA NORMALIZATION AND VISUALIZATION and EXPLORATORY DATA ANALYSIS
+
+Goal:
+Identify duplicate rows and remove them.
+Check and handle missing values in key columns.
+Identify and normalize compensation-related columns.
+Visualize the effect of normalization techniques on data distributions.
+
+[Normalization and Visualizatio}(https://github.com/JudahMwatee/TestRepo/blob/main/Hands-on%20Lab%2010%20Normalizing%20Data.ipynb)
+
+Exploratory Data Analysis
+Examine the structure of a dataset.
+Handle missing values effectively.
+Conduct summary statistics on key columns
+Analyze employment status, job satisfaction, programming language usage, and trends in remote work.
+
+[Exploratory Data](https://github.com/JudahMwatee/TestRepo/blob/main/Hands-on%20Lab%20Exploratory%20Data%20Analysis%20(1).ipynb)
+
+REPORT 
+
+Created a presentation based on the analysis of the Stack Overflow survey data. The presentation gave a clear and compelling story of my findings, making the data easy to understand and relevant to the audience. 
+
+[PDF PRESENTATION](https://github.com/JudahMwatee/TestRepo/blob/main/DataAnalystPresentation.pdf)
+
+CERTIFICATIONS:
+
+[IBM Data Analyst](https://www.coursera.org/account/accomplishments/specialization/95K05UBAHFIV)
+
+
+
+
 
 
 
