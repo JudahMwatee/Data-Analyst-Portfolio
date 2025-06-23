@@ -45,7 +45,7 @@ Check and handle missing values in key columns.
 Identify and normalize compensation-related columns.
 Visualize the effect of normalization techniques on data distributions.
 
-[Normalization and Visualizatio}(https://github.com/JudahMwatee/TestRepo/blob/main/Hands-on%20Lab%2010%20Normalizing%20Data.ipynb)
+[Normalization and Visualizatio](https://github.com/JudahMwatee/TestRepo/blob/main/Hands-on%20Lab%2010%20Normalizing%20Data.ipynb)
 
 Exploratory Data Analysis
 Examine the structure of a dataset.
